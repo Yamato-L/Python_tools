@@ -1,11 +1,13 @@
+import os
 import csv
 import json
+import pandas as pd
+import matplotlib.pyplot as plt
 
 def process_log_file_aeb(log_file, csv_file):
     with open(log_file, 'r') as log, open(csv_file, 'w', newline='') as csvfile:
         csv_writer = csv.writer(csvfile)
-        csv_writer.writerow(['stamp', 'aeb_switch', 'aeb_state', 'aeb_direction', 'aeb_fcn_state', 'IsAEBActive', 'IsAEBActuationEnabled', 'IsAEBCanStandby'])  # 写入CSV文件的头部
-        #"IsAEBActive":0,"IsAEBActuationEnabled":1,"IsAEBCanStandby":1
+        csv_writer.writerow(['stamp', 'aeb_switch', 'aeb_state', 'aeb_direction', 'aeb_fcn_state', 'IsAEBActive'])  # 写入CSV文件的头部
 
         # processing = False
         stamp = None
@@ -28,8 +30,6 @@ def process_log_file_aeb(log_file, csv_file):
                             frame_id_data.get('aeb_direction', ''),
                             frame_id_data.get('aeb_fcn_state', ''),
                             cm.get('IsAEBActive', ''),
-                            cm.get('IsAEBActuationEnabled', ''),
-                            cm.get('IsAEBCanStandby', '')
                         ])
                     except json.JSONDecodeError as e:
                         print(f"Error decoding JSON: {e}")
@@ -162,6 +162,21 @@ def process_log_file_vision(log_filename, csv_filename, object_name):
 
                 block.append(line)
 
+def write_figure(csv_filename):
+    data = pd.read_csv(csv_filename)
+    figure_name = os.path.splitext(os.path.basename(csv_filename))[0]
+
+    plt.figure(figsize=(10, 5))
+    plt.plot(data['location_x'], marker='o')
+
+    plt.title(figure_name + '_locationx')
+    plt.ylabel('location')
+
+    plt.grid()
+    # plt.show()
+
+    plt.savefig(figure_name + '_locationx.png', dpi=300, bbox_inches='tight')
+
 if __name__ == "__main__":
     # process data for aeb_stat
     process_log_file_aeb('aeb_stat.log', 'aeb_stat.csv')
@@ -174,3 +189,5 @@ if __name__ == "__main__":
 
     # process data for vision_aeb_object
     process_log_file_vision('vision_aeb_object.log', 'vision_aeb_object.csv', 'vision_aeb_objects')
+
+    write_figure('20241021/radar_object.csv')
