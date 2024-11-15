@@ -27,7 +27,7 @@ if __name__ == "__main__":
     process_log_file_radar('your_radar_log_file.log', 'your_radar_output.csv')
 
     # 处理 Vision 类型日志文件
-    process_log_file_vision('your_vision_log_file.log', 'your_vision_output.csv')
+    process_log_file_vision('your_vision_log_file.log', 'your_vision_output.csv', 'objects')
 ```
 在上述示例中，您需要：
 
@@ -37,6 +37,8 @@ if __name__ == "__main__":
 - 替换 your_radar_output.csv 为处理后生成的 CSV 文件名。
 - 替换 your_vision_log_file.log 为您的 Vision 类型日志文件名。
 - 替换 your_vision_output.csv 为处理后生成的 CSV 文件名。
+
+注意：process_log_file_vision中第三个参数一般不做更改，除非log文件中objects字段变更
 
 3. 执行 python process_log.py （需要python环境）
 4. 使用excel打开输出的csv文件，选中需要分析的track_id、location_x或其他数据，生成折线图、散点图等图表进行分析
