@@ -47,7 +47,7 @@ def process_log_file_aeb(log_file, csv_file):
 def process_log_file_radar(log_filename, csv_filename):
     with open(log_filename, 'r') as log_file, open(csv_filename, 'w', newline='') as csv_file:
         csv_writer = csv.writer(csv_file)
-        csv_writer.writerow(['available', 'camera_source', 'track_id', 'location_x', 'location_y', 'location_z'])  # 写入CSV头部
+        csv_writer.writerow(['timestamp_ns', 'sensor_timestamp_us', 'pipeline_start_timestamp_us', 'pipeline_finish_timestamp_us', 'pipeline_timestamp_us', 'available', 'camera_source', 'track_id', 'location_x', 'location_y', 'location_z'])  # 写入CSV头部
 
         block = []
         # within_block = False
@@ -60,6 +60,11 @@ def process_log_file_radar(log_filename, csv_filename):
                 try:
                     json_obj = json.loads(json_str)
                     # print(json.dumps(json_obj, indent=4))
+                    timestamp = json_obj.get('header',{}).get('stamp', '')
+                    sensor_timestamp = json_obj.get('meta',{}).get('sensor_timestamp_us', '')
+                    pipeline_start_timestamp = json_obj.get('meta',{}).get('pipeline_start_timestamp_us', '')
+                    pipeline_finish_timestamp = json_obj.get('meta',{}).get('pipeline_finish_timestamp_us', '')
+                    pipeline_timestamp = pipeline_finish_timestamp - pipeline_start_timestamp
 
                     lidar_perception_objects = json_obj.get('lidar_perception_objects', {})
                     available = lidar_perception_objects.get('available', '')
@@ -78,7 +83,7 @@ def process_log_file_radar(log_filename, csv_filename):
                         track_id = location_x = location_y = location_z = ''
                     # print("available: ", available, "camera_source: ", value, "track_id: ", track_id, "location_x: ", location_x)
 
-                    csv_writer.writerow([available, value, track_id, location_x, location_y, location_z])
+                    csv_writer.writerow([timestamp, sensor_timestamp, pipeline_start_timestamp, pipeline_finish_timestamp, pipeline_timestamp, available, value, track_id, location_x, location_y, location_z])
                 except json.JSONDecodeError:
                     print(f"Failed to decode JSON: {json_str}")
                 block = []
@@ -105,7 +110,7 @@ def process_log_file_radar(log_filename, csv_filename):
 def process_log_file_vision(log_filename, csv_filename, object_name):
     with open(log_filename, 'r') as log_file, open(csv_filename, 'w', newline='') as csv_file:
         csv_writer = csv.writer(csv_file)
-        csv_writer.writerow(['available', 'camera_source', 'track_id', 'location_x'])  # 写入CSV头部
+        csv_writer.writerow(['timestamp_ns', 'sensor_timestamp_us', 'pipeline_start_timestamp_us', 'pipeline_finish_timestamp_us', 'pipeline_timestamp_us', 'available', 'camera_source', 'track_id', 'location_x'])  # 写入CSV头部
 
         block = []
         # within_block = False
@@ -118,6 +123,11 @@ def process_log_file_vision(log_filename, csv_filename, object_name):
                 try:
                     json_obj = json.loads(json_str)
                     # print(json.dumps(json_obj, indent=4))
+                    timestamp = json_obj.get('header',{}).get('stamp', '')
+                    sensor_timestamp = json_obj.get('meta',{}).get('sensor_timestamp_us', '')
+                    pipeline_start_timestamp = json_obj.get('meta',{}).get('pipeline_start_timestamp_us', '')
+                    pipeline_finish_timestamp = json_obj.get('meta',{}).get('pipeline_finish_timestamp_us', '')
+                    pipeline_timestamp = pipeline_finish_timestamp - pipeline_start_timestamp
 
                     available = json_obj.get('available', '')
                     objects = json_obj.get(object_name, {})
@@ -136,7 +146,7 @@ def process_log_file_vision(log_filename, csv_filename, object_name):
 
                     # print("available: ", available, "camera_source: ", value, "track_id: ", track_id, "location_x: ", location_x)
 
-                    csv_writer.writerow([available, value, track_id, location_x])
+                    csv_writer.writerow([timestamp, sensor_timestamp, pipeline_start_timestamp, pipeline_finish_timestamp, pipeline_timestamp, available, value, track_id, location_x])
                 except json.JSONDecodeError:
                     print(f"Failed to decode JSON: {json_str}")
                 block = []
@@ -175,19 +185,51 @@ def write_figure(csv_filename):
     plt.grid()
     # plt.show()
 
-    plt.savefig(figure_name + '_locationx.png', dpi=300, bbox_inches='tight')
+    # plt.savefig(figure_name + '_locationx.png', dpi=300, bbox_inches='tight')
 
 if __name__ == "__main__":
     # process data for aeb_stat
-    process_log_file_aeb('aeb_stat.log', 'aeb_stat.csv')
+    # process_log_file_aeb('20241118/aeb_sts.log', '20241118/aeb_sts.csv')
 
     # process data for radar_object
-    process_log_file_radar('radar_object.log', 'radar_object.csv')
+    process_log_file_radar('20241118/radar_object.log', '20241118/radar_object.csv')
 
     # process data for vision_object
-    process_log_file_vision('vision_object.log', 'vision_object.csv', 'objects')
+    process_log_file_vision('20241118/vision_object.log', '20241118/vision_object.csv', 'objects')
 
     # process data for vision_aeb_object
-    process_log_file_vision('vision_aeb_object.log', 'vision_aeb_object.csv', 'vision_aeb_objects')
+    process_log_file_vision('20241118/vision_aeb_object.log', '20241118/vision_aeb_object.csv', 'vision_aeb_objects')
 
-    write_figure('20241021/radar_object.csv')
+    # write_figure('20241106/vision_aeb_object.csv')
+
+#     import math
+#     azimuth_list = [0.7, 0.3, 0.8, 0.2, 359.8]
+#     elevation_list = [90.2, 90.2, 89.7, 89.7, 89.7]
+#     range_list = [43.0, 42.1, 40.8, 40.8, 40.8]
+#
+#
+#     for azimuth, elevation, range in zip(azimuth_list, elevation_list, range_list):
+#         if azimuth < 180:
+#             m_azimuth = - azimuth * math.pi / 180.0
+#         else:
+#             m_azimuth = (360.0 - azimuth) * math.pi / 180.0
+#
+#         # if azimuth < 180:
+#         #     m_azimuth = azimuth * math.pi / 180.0
+#         # else:
+#         #     m_azimuth = (azimuth - 360.0) * math.pi / 180.0
+#
+#         m_elevation = (90.0 - elevation) * math.pi / 180.0
+#
+#         x = range * math.cos(m_elevation) * math.cos(m_azimuth)
+#         y = range * math.cos(m_elevation) * math.sin(m_azimuth)
+#         z = range * math.sin(m_elevation)
+#         print(f'x: {x}, y: {y}, z: {z}')
+#
+# # echo "-0.00154847 -0.0000597069" | cs2cs +proj=longlat +datum=WGS84 +to +proj=utm +zone=30 +datum=WGS84
+# # echo "-0.00130053 -0.00302225" | cs2cs +proj=longlat +datum=WGS84 +to +proj=utm +zone=30 +datum=WGS84
+#     x=44.796974
+#     y=0.121964
+#     z=-0.860096
+#     dist = math.sqrt(x**2 + y**2 + z**2)
+#     print(f'dist: {dist}')
