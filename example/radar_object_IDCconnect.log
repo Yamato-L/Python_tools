@@ -1,0 +1,9206 @@
+[mosadaptor] Set thread priority on non-linux ok, thread_id=2, thread_priority=10, errno=3, error=No such process
+current mfrtool is new,this is just log info, has no effection.
+------------------
+header {
+  seq: 0
+  stamp: 2854434046012
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416621156947
+  pipeline_start_timestamp_us: 2854424374
+  pipeline_finish_timestamp_us: 2854434023
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 261.088617
+      length: 3.483080
+      width: 0.749443
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.704679
+      y: -0.282277
+      z: -183.252884
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.704679
+      y: -0.282277
+      z: -183.252884
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2854620052748
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416621298446
+  pipeline_start_timestamp_us: 2854609445
+  pipeline_finish_timestamp_us: 2854620034
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 214.119424
+      length: 2.988827
+      width: 0.930741
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.828202
+      y: -0.358205
+      z: -157.595581
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.828202
+      y: -0.358205
+      z: -157.595581
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2854680672872
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416621382116
+  pipeline_start_timestamp_us: 2854659339
+  pipeline_finish_timestamp_us: 2854680632
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 215.178491
+      length: 3.113000
+      width: 0.924840
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.875437
+      y: -0.362960
+      z: -157.067383
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.875437
+      y: -0.362960
+      z: -157.067383
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2854805799644
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416621467312
+  pipeline_start_timestamp_us: 2854790349
+  pipeline_finish_timestamp_us: 2854805776
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 207.094446
+      length: 3.023240
+      width: 0.929809
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.787881
+      y: -0.359212
+      z: -151.988892
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.787881
+      y: -0.359212
+      z: -151.988892
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2854919246628
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416621619767
+  pipeline_start_timestamp_us: 2854905554
+  pipeline_finish_timestamp_us: 2854919228
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 272.146387
+      length: 2.825174
+      width: 0.925999
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.642830
+      y: -0.358162
+      z: -182.444427
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.642830
+      y: -0.358162
+      z: -182.444427
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2855039561988
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416621716679
+  pipeline_start_timestamp_us: 2855027520
+  pipeline_finish_timestamp_us: 2855039545
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 271.741632
+      length: 2.869175
+      width: 0.923098
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.637399
+      y: -0.361890
+      z: -181.367416
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.637399
+      y: -0.361890
+      z: -181.367416
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2855118539360
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416621804867
+  pipeline_start_timestamp_us: 2855097514
+  pipeline_finish_timestamp_us: 2855118517
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 271.854578
+      length: 3.022049
+      width: 0.931291
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.679013
+      y: -0.359052
+      z: -180.311554
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.679013
+      y: -0.359052
+      z: -180.311554
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2855300186572
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416621969874
+  pipeline_start_timestamp_us: 2855282315
+  pipeline_finish_timestamp_us: 2855300164
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 271.682092
+      length: 3.378079
+      width: 0.926834
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.809292
+      y: -0.360462
+      z: -178.131805
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.809292
+      y: -0.360462
+      z: -178.131805
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2855354721964
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416622062954
+  pipeline_start_timestamp_us: 2855339358
+  pipeline_finish_timestamp_us: 2855354696
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 272.192834
+      length: 3.420290
+      width: 0.932613
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.814066
+      y: -0.357689
+      z: -177.363007
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.814066
+      y: -0.357689
+      z: -177.363007
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2855491249088
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416622136563
+  pipeline_start_timestamp_us: 2855471462
+  pipeline_finish_timestamp_us: 2855491221
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 199.310281
+      length: 3.390694
+      width: 1.103403
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.772447
+      y: -0.438761
+      z: -140.313232
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.772447
+      y: -0.438761
+      z: -140.313232
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2855659091824
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416622336615
+  pipeline_start_timestamp_us: 2855647424
+  pipeline_finish_timestamp_us: 2855659068
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 178.588464
+      length: 3.397495
+      width: 0.857206
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.804255
+      y: -0.314797
+      z: -150.322647
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.804255
+      y: -0.314797
+      z: -150.322647
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2855784241248
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416622448176
+  pipeline_start_timestamp_us: 2855764373
+  pipeline_finish_timestamp_us: 2855784217
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 241.971246
+      length: 3.327822
+      width: 0.846547
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.777159
+      y: -0.315806
+      z: -180.948318
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.777159
+      y: -0.315806
+      z: -180.948318
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2855960738076
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416622648110
+  pipeline_start_timestamp_us: 2855948396
+  pipeline_finish_timestamp_us: 2855960700
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 241.447275
+      length: 3.379267
+      width: 0.860685
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.764444
+      y: -0.323832
+      z: -178.675903
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.764444
+      y: -0.323832
+      z: -178.675903
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2856105064768
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416622787032
+  pipeline_start_timestamp_us: 2856086368
+  pipeline_finish_timestamp_us: 2856105041
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 241.566843
+      length: 3.531871
+      width: 0.840966
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.791656
+      y: -0.319252
+      z: -176.615723
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.791656
+      y: -0.319252
+      z: -176.615723
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2856218280888
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416622873411
+  pipeline_start_timestamp_us: 2856198499
+  pipeline_finish_timestamp_us: 2856218263
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 246.904718
+      length: 3.535076
+      width: 0.849795
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.790706
+      y: -0.325096
+      z: -178.225052
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.790706
+      y: -0.325096
+      z: -178.225052
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2856324598008
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416623010232
+  pipeline_start_timestamp_us: 2856316327
+  pipeline_finish_timestamp_us: 2856324577
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 247.005441
+      length: 3.575944
+      width: 1.011288
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.753838
+      y: -0.405393
+      z: -176.176865
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.753838
+      y: -0.405393
+      z: -176.176865
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2856516063456
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416623166076
+  pipeline_start_timestamp_us: 2856500342
+  pipeline_finish_timestamp_us: 2856516042
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 246.736795
+      length: 2.918494
+      width: 1.012308
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.457675
+      y: -0.404666
+      z: -173.991226
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.457675
+      y: -0.404666
+      z: -173.991226
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2856706619232
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416623373346
+  pipeline_start_timestamp_us: 2856689157
+  pipeline_finish_timestamp_us: 2856706594
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 246.549814
+      length: 3.401610
+      width: 1.064176
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.660037
+      y: -0.428065
+      z: -171.879852
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.660037
+      y: -0.428065
+      z: -171.879852
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2856757763936
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416623464138
+  pipeline_start_timestamp_us: 2856745353
+  pipeline_finish_timestamp_us: 2856757735
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 241.958978
+      length: 3.208433
+      width: 1.065235
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.561729
+      y: -0.431764
+      z: -172.880753
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.561729
+      y: -0.431764
+      z: -172.880753
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2856934440444
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416623612026
+  pipeline_start_timestamp_us: 2856925354
+  pipeline_finish_timestamp_us: 2856934420
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 243.238321
+      length: 3.141173
+      width: 0.834306
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.593610
+      y: -0.323644
+      z: -171.515656
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.593610
+      y: -0.323644
+      z: -171.515656
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2857058775136
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416623748888
+  pipeline_start_timestamp_us: 2857047413
+  pipeline_finish_timestamp_us: 2857058750
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 204.490121
+      length: 3.123421
+      width: 0.601533
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.576987
+      y: -0.195790
+      z: -202.592957
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.576987
+      y: -0.195790
+      z: -202.592957
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2857252947660
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416623912156
+  pipeline_start_timestamp_us: 2857235651
+  pipeline_finish_timestamp_us: 2857252929
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 183.578287
+      length: 3.229599
+      width: 0.646588
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.575854
+      y: -0.221076
+      z: -190.025696
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.575854
+      y: -0.221076
+      z: -190.025696
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2857425154616
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416624125339
+  pipeline_start_timestamp_us: 2857415382
+  pipeline_finish_timestamp_us: 2857425129
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 183.417276
+      length: 3.136502
+      width: 0.652485
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.595068
+      y: -0.224848
+      z: -187.825836
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.595068
+      y: -0.224848
+      z: -187.825836
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2857552934084
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416624256726
+  pipeline_start_timestamp_us: 2857541349
+  pipeline_finish_timestamp_us: 2857552914
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 189.004068
+      length: 3.101030
+      width: 0.647947
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.574095
+      y: -0.216738
+      z: -188.338715
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.574095
+      y: -0.216738
+      z: -188.338715
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2857727351220
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416624399514
+  pipeline_start_timestamp_us: 2857718380
+  pipeline_finish_timestamp_us: 2857727333
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 220.380426
+      length: 3.142598
+      width: 0.923094
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.548392
+      y: -0.349290
+      z: -201.887253
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.548392
+      y: -0.349290
+      z: -201.887253
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2857816086820
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416624485959
+  pipeline_start_timestamp_us: 2857795385
+  pipeline_finish_timestamp_us: 2857816062
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 220.560510
+      length: 3.153117
+      width: 0.647734
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.569007
+      y: -0.219173
+      z: -200.812805
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.569007
+      y: -0.219173
+      z: -200.812805
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2857923216496
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416624584828
+  pipeline_start_timestamp_us: 2857908337
+  pipeline_finish_timestamp_us: 2857923191
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 220.435388
+      length: 4.328710
+      width: 0.660873
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 7.139027
+      y: -0.217453
+      z: -199.655426
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 7.139027
+      y: -0.217453
+      z: -199.655426
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2857970094676
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416624678530
+  pipeline_start_timestamp_us: 2857957320
+  pipeline_finish_timestamp_us: 2857970062
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 220.305505
+      length: 3.155603
+      width: 0.645951
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.551634
+      y: -0.230211
+      z: -198.685944
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.551634
+      y: -0.230211
+      z: -198.685944
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2858181649040
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416624835983
+  pipeline_start_timestamp_us: 2858152316
+  pipeline_finish_timestamp_us: 2858181626
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 220.340509
+      length: 4.300683
+      width: 0.646377
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 7.101134
+      y: -0.222042
+      z: -196.408554
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 7.101134
+      y: -0.222042
+      z: -196.408554
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2858226467712
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416624921853
+  pipeline_start_timestamp_us: 2858206358
+  pipeline_finish_timestamp_us: 2858226449
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 231.303369
+      length: 2.801781
+      width: 0.656605
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.358595
+      y: -0.222446
+      z: -203.126495
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.358595
+      y: -0.222446
+      z: -203.126495
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2858414021264
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416625113319
+  pipeline_start_timestamp_us: 2858400366
+  pipeline_finish_timestamp_us: 2858414000
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 234.044153
+      length: 2.782096
+      width: 0.648933
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.416064
+      y: -0.225951
+      z: -199.976196
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.416064
+      y: -0.225951
+      z: -199.976196
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2858528791276
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416625197232
+  pipeline_start_timestamp_us: 2858519354
+  pipeline_finish_timestamp_us: 2858528769
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 215.579874
+      length: 2.873491
+      width: 0.660381
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.433373
+      y: -0.228182
+      z: -189.709259
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.433373
+      y: -0.228182
+      z: -189.709259
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2858643467536
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416625333084
+  pipeline_start_timestamp_us: 2858635348
+  pipeline_finish_timestamp_us: 2858643446
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 213.384515
+      length: 2.808810
+      width: 0.653555
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.397513
+      y: -0.215915
+      z: -188.586533
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.397513
+      y: -0.215915
+      z: -188.586533
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2858783394992
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416625484821
+  pipeline_start_timestamp_us: 2858762336
+  pipeline_finish_timestamp_us: 2858783376
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 215.679590
+      length: 2.772021
+      width: 0.655186
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.357398
+      y: -0.222128
+      z: -185.399597
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.357398
+      y: -0.222128
+      z: -185.399597
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2858917024028
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416625602825
+  pipeline_start_timestamp_us: 2858894500
+  pipeline_finish_timestamp_us: 2858917004
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 215.478967
+      length: 2.905458
+      width: 0.781226
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.411253
+      y: -0.285502
+      z: -184.259460
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.411253
+      y: -0.285502
+      z: -184.259460
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2859023580816
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416625740412
+  pipeline_start_timestamp_us: 2859014326
+  pipeline_finish_timestamp_us: 2859023560
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 188.579919
+      length: 3.962841
+      width: 0.690371
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.937528
+      y: -0.233540
+      z: -168.645782
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.937528
+      y: -0.233540
+      z: -168.645782
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2859206744600
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416625924611
+  pipeline_start_timestamp_us: 2859188645
+  pipeline_finish_timestamp_us: 2859206721
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 188.420160
+      length: 3.999778
+      width: 0.933765
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.968446
+      y: -0.354038
+      z: -166.471603
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.968446
+      y: -0.354038
+      z: -166.471603
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2859321387048
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416625993383
+  pipeline_start_timestamp_us: 2859311425
+  pipeline_finish_timestamp_us: 2859321366
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 189.460687
+      length: 3.904020
+      width: 0.785840
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 7.016363
+      y: -0.281594
+      z: -165.917252
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 7.016363
+      y: -0.281594
+      z: -165.917252
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2859439049196
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416626132570
+  pipeline_start_timestamp_us: 2859427335
+  pipeline_finish_timestamp_us: 2859439032
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 233.076929
+      length: 2.621521
+      width: 0.827968
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.514425
+      y: -0.307427
+      z: -185.640961
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.514425
+      y: -0.307427
+      z: -185.640961
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2859573457740
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416626232098
+  pipeline_start_timestamp_us: 2859557338
+  pipeline_finish_timestamp_us: 2859573434
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 233.991052
+      length: 2.468106
+      width: 0.832147
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.417028
+      y: -0.304404
+      z: -183.938446
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.417028
+      y: -0.304404
+      z: -183.938446
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2859627064656
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416626349240
+  pipeline_start_timestamp_us: 2859612353
+  pipeline_finish_timestamp_us: 2859627047
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 232.777399
+      length: 2.538687
+      width: 0.809161
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.262975
+      y: -0.305594
+      z: -182.245346
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.262975
+      y: -0.305594
+      z: -182.245346
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2859891760108
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416626540006
+  pipeline_start_timestamp_us: 2859869355
+  pipeline_finish_timestamp_us: 2859891735
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 189.315942
+      length: 2.471606
+      width: 0.867035
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.310095
+      y: -0.320247
+      z: -157.362823
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.310095
+      y: -0.320247
+      z: -157.362823
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2860012761432
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416626685788
+  pipeline_start_timestamp_us: 2859988405
+  pipeline_finish_timestamp_us: 2860012738
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 188.071725
+      length: 2.477278
+      width: 0.898299
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.242711
+      y: -0.352915
+      z: -155.685852
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.242711
+      y: -0.352915
+      z: -155.685852
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2860191333964
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416626870668
+  pipeline_start_timestamp_us: 2860167168
+  pipeline_finish_timestamp_us: 2860191307
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 219.385812
+      length: 3.634459
+      width: 0.857002
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.905262
+      y: -0.321857
+      z: -169.307648
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.905262
+      y: -0.321857
+      z: -169.307648
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2860383993120
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416627026723
+  pipeline_start_timestamp_us: 2860355392
+  pipeline_finish_timestamp_us: 2860383969
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 218.908304
+      length: 3.636085
+      width: 0.924444
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.885409
+      y: -0.352061
+      z: -166.981049
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.885409
+      y: -0.352061
+      z: -166.981049
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2860539514988
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416627213339
+  pipeline_start_timestamp_us: 2860531345
+  pipeline_finish_timestamp_us: 2860539493
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 218.668512
+      length: 2.541256
+      width: 1.184961
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.271777
+      y: -0.156175
+      z: -164.846481
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.271777
+      y: -0.156175
+      z: -164.846481
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2860683212844
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416627350034
+  pipeline_start_timestamp_us: 2860664344
+  pipeline_finish_timestamp_us: 2860683186
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+lidar_perception_object_data {
+    track_id: 0
+    type_info {
+type_properties {
+        value: 0
+}
+type_properties {
+        value: 2
+}
+      type {
+        value: 1
+      }
+      general_object_type {
+        value: 0
+      }
+      vehicle_type {
+        value: 1
+      }
+      vehicle_sub_type {
+        value: 0
+      }
+      vru_type {
+        value: 0
+      }
+      vru_sub_type {
+        value: 0
+      }
+      traffic_barrier_type {
+        value: 0
+      }
+      traffic_light_type {
+        value: 0
+      }
+    }
+    shape {
+      height: 200.290155
+      length: 1.836668
+      width: 0.279196
+    }
+    shape_sigma {
+      height: 0.000000
+      length: 0.000000
+      width: 0.000000
+    }
+    position {
+      x: 6.255752
+      y: -0.185293
+      z: -172.070786
+    }
+    position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    heading_yaw: 0.000000
+    heading_yaw_sigma: 0.000000
+    angular_velocity: 0.000000
+    angular_velocity_sigma: 0.000000
+    relative_position {
+      x: 6.255752
+      y: -0.185293
+      z: -172.070786
+    }
+    relative_position_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_velocity_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_acceleration_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    relative_heading_yaw: 0.000000
+    relative_heading_yaw_sigma: 0.000000
+    relative_angular_velocity: 0.000000
+    relative_angular_velocity_sigma: 0.000000
+    velocity_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    velocity_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    acceleration_relative_to_ground_sigma {
+      x: 0.000000
+      y: 0.000000
+      z: 0.000000
+    }
+    score: 0.880000
+    polygon_bottom {
+      points: []
+    }
+    polygon_top {
+      points: []
+    }
+    available: 1
+    reserved_info: ""
+}
+}
+------------------
+header {
+  seq: 0
+  stamp: 2860802075456
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416627450073
+  pipeline_start_timestamp_us: 2860787364
+  pipeline_finish_timestamp_us: 2860802053
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2860919608140
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416627582984
+  pipeline_start_timestamp_us: 2860895364
+  pipeline_finish_timestamp_us: 2860919586
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2861032230032
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416627717990
+  pipeline_start_timestamp_us: 2861024333
+  pipeline_finish_timestamp_us: 2861032211
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2861152874748
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416627849051
+  pipeline_start_timestamp_us: 2861141316
+  pipeline_finish_timestamp_us: 2861152851
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2861291430940
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416627978212
+  pipeline_start_timestamp_us: 2861270480
+  pipeline_finish_timestamp_us: 2861291404
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2861461608552
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416628129675
+  pipeline_start_timestamp_us: 2861449336
+  pipeline_finish_timestamp_us: 2861461577
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2861641520648
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416628326125
+  pipeline_start_timestamp_us: 2861633331
+  pipeline_finish_timestamp_us: 2861641502
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2861781539688
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416628462674
+  pipeline_start_timestamp_us: 2861759396
+  pipeline_finish_timestamp_us: 2861781512
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2861897229020
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416628545726
+  pipeline_start_timestamp_us: 2861876806
+  pipeline_finish_timestamp_us: 2861897202
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2862019526780
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416628721901
+  pipeline_start_timestamp_us: 2861998383
+  pipeline_finish_timestamp_us: 2862019505
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2862200955032
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416628868823
+  pipeline_start_timestamp_us: 2862182366
+  pipeline_finish_timestamp_us: 2862200932
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2862390507524
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416629031756
+  pipeline_start_timestamp_us: 2862368377
+  pipeline_finish_timestamp_us: 2862390464
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2862435822784
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416629149570
+  pipeline_start_timestamp_us: 2862427333
+  pipeline_finish_timestamp_us: 2862435802
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2862569961168
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416629274049
+  pipeline_start_timestamp_us: 2862558347
+  pipeline_finish_timestamp_us: 2862569930
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2862865842160
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416629516567
+  pipeline_start_timestamp_us: 2862854351
+  pipeline_finish_timestamp_us: 2862865813
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2862997948160
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416629680520
+  pipeline_start_timestamp_us: 2862976343
+  pipeline_finish_timestamp_us: 2862997924
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2863188894400
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416629827391
+  pipeline_start_timestamp_us: 2863167365
+  pipeline_finish_timestamp_us: 2863188851
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2863315491816
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416629979686
+  pipeline_start_timestamp_us: 2863298360
+  pipeline_finish_timestamp_us: 2863315470
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2863430404184
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416630115721
+  pipeline_start_timestamp_us: 2863418323
+  pipeline_finish_timestamp_us: 2863430252
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2863537818528
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416630203814
+  pipeline_start_timestamp_us: 2863527432
+  pipeline_finish_timestamp_us: 2863537799
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2863730395652
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416630382780
+  pipeline_start_timestamp_us: 2863721370
+  pipeline_finish_timestamp_us: 2863730378
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2863848062256
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416630516493
+  pipeline_start_timestamp_us: 2863838347
+  pipeline_finish_timestamp_us: 2863848038
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2863988782152
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416630674242
+  pipeline_start_timestamp_us: 2863969428
+  pipeline_finish_timestamp_us: 2863988751
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2864150255520
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416630831254
+  pipeline_start_timestamp_us: 2864140378
+  pipeline_finish_timestamp_us: 2864150232
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2864283469340
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416630959180
+  pipeline_start_timestamp_us: 2864267392
+  pipeline_finish_timestamp_us: 2864283440
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2864404953144
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416631045143
+  pipeline_start_timestamp_us: 2864387700
+  pipeline_finish_timestamp_us: 2864404933
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2864520216680
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416631182211
+  pipeline_start_timestamp_us: 2864503398
+  pipeline_finish_timestamp_us: 2864520197
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2864590220928
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416631265112
+  pipeline_start_timestamp_us: 2864569413
+  pipeline_finish_timestamp_us: 2864590193
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2864722809100
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416631396128
+  pipeline_start_timestamp_us: 2864693344
+  pipeline_finish_timestamp_us: 2864722785
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2864891151324
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416631563991
+  pipeline_start_timestamp_us: 2864874478
+  pipeline_finish_timestamp_us: 2864891121
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2865007379704
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416631703193
+  pipeline_start_timestamp_us: 2864989382
+  pipeline_finish_timestamp_us: 2865007357
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2865254494732
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416631927478
+  pipeline_start_timestamp_us: 2865243394
+  pipeline_finish_timestamp_us: 2865254249
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2865390079716
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416632019181
+  pipeline_start_timestamp_us: 2865365460
+  pipeline_finish_timestamp_us: 2865390058
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2865506190280
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416632170801
+  pipeline_start_timestamp_us: 2865486382
+  pipeline_finish_timestamp_us: 2865506165
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2865620841412
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416632289014
+  pipeline_start_timestamp_us: 2865609469
+  pipeline_finish_timestamp_us: 2865620811
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2865741643268
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416632446128
+  pipeline_start_timestamp_us: 2865733359
+  pipeline_finish_timestamp_us: 2865741621
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2865989505868
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416632645173
+  pipeline_start_timestamp_us: 2865966351
+  pipeline_finish_timestamp_us: 2865989473
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2866181716052
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416632826795
+  pipeline_start_timestamp_us: 2866156979
+  pipeline_finish_timestamp_us: 2866181689
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2866226884588
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416632910767
+  pipeline_start_timestamp_us: 2866213349
+  pipeline_finish_timestamp_us: 2866226864
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2866341338760
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416633000801
+  pipeline_start_timestamp_us: 2866332375
+  pipeline_finish_timestamp_us: 2866341316
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2866470289084
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416633153985
+  pipeline_start_timestamp_us: 2866458111
+  pipeline_finish_timestamp_us: 2866470264
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2866601305616
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416633287587
+  pipeline_start_timestamp_us: 2866582350
+  pipeline_finish_timestamp_us: 2866601282
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2866661468040
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416633382092
+  pipeline_start_timestamp_us: 2866645541
+  pipeline_finish_timestamp_us: 2866661438
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2866847356660
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416633529881
+  pipeline_start_timestamp_us: 2866838366
+  pipeline_finish_timestamp_us: 2866847332
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2866959033364
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416633674545
+  pipeline_start_timestamp_us: 2866947326
+  pipeline_finish_timestamp_us: 2866959010
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2867159915812
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416633811177
+  pipeline_start_timestamp_us: 2867143333
+  pipeline_finish_timestamp_us: 2867159893
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2867259004692
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416633949501
+  pipeline_start_timestamp_us: 2867249391
+  pipeline_finish_timestamp_us: 2867258982
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2867455701092
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416634123922
+  pipeline_start_timestamp_us: 2867437353
+  pipeline_finish_timestamp_us: 2867455672
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2867583652884
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416634253180
+  pipeline_start_timestamp_us: 2867560011
+  pipeline_finish_timestamp_us: 2867583625
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2867752926284
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416634443720
+  pipeline_start_timestamp_us: 2867741340
+  pipeline_finish_timestamp_us: 2867752902
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2867892486256
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416634565870
+  pipeline_start_timestamp_us: 2867869349
+  pipeline_finish_timestamp_us: 2867892459
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2868011697876
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416634709335
+  pipeline_start_timestamp_us: 2867992350
+  pipeline_finish_timestamp_us: 2868011676
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2868119490028
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416634811140
+  pipeline_start_timestamp_us: 2868111374
+  pipeline_finish_timestamp_us: 2868119469
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2868318594644
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416634965335
+  pipeline_start_timestamp_us: 2868291383
+  pipeline_finish_timestamp_us: 2868318575
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2868359161940
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416635049019
+  pipeline_start_timestamp_us: 2868348411
+  pipeline_finish_timestamp_us: 2868359139
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2868540291924
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416635229170
+  pipeline_start_timestamp_us: 2868532358
+  pipeline_finish_timestamp_us: 2868540266
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2868665272052
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416635367666
+  pipeline_start_timestamp_us: 2868654366
+  pipeline_finish_timestamp_us: 2868665243
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2868802602664
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416635450644
+  pipeline_start_timestamp_us: 2868784423
+  pipeline_finish_timestamp_us: 2868802582
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2868991688228
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416635623088
+  pipeline_start_timestamp_us: 2868967774
+  pipeline_finish_timestamp_us: 2868991664
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2869040415076
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416635719658
+  pipeline_start_timestamp_us: 2869032368
+  pipeline_finish_timestamp_us: 2869040397
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2869183464368
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416635823317
+  pipeline_start_timestamp_us: 2869156372
+  pipeline_finish_timestamp_us: 2869183437
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2869333995312
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416636009488
+  pipeline_start_timestamp_us: 2869324328
+  pipeline_finish_timestamp_us: 2869333974
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2869479570440
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416636163527
+  pipeline_start_timestamp_us: 2869459436
+  pipeline_finish_timestamp_us: 2869479542
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2869610532528
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416636241347
+  pipeline_start_timestamp_us: 2869596739
+  pipeline_finish_timestamp_us: 2869610510
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2869713238576
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416636411913
+  pipeline_start_timestamp_us: 2869697261
+  pipeline_finish_timestamp_us: 2869713216
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2869899145100
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416636557809
+  pipeline_start_timestamp_us: 2869879611
+  pipeline_finish_timestamp_us: 2869899125
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2870015863932
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416636705380
+  pipeline_start_timestamp_us: 2869992375
+  pipeline_finish_timestamp_us: 2870015841
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2870133902512
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416636843263
+  pipeline_start_timestamp_us: 2870125352
+  pipeline_finish_timestamp_us: 2870133879
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2870312597456
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416636988711
+  pipeline_start_timestamp_us: 2870304376
+  pipeline_finish_timestamp_us: 2870312573
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2870440304056
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416637130760
+  pipeline_start_timestamp_us: 2870432341
+  pipeline_finish_timestamp_us: 2870440285
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2870559990068
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416637268731
+  pipeline_start_timestamp_us: 2870544364
+  pipeline_finish_timestamp_us: 2870559967
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2870686943984
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416637383349
+  pipeline_start_timestamp_us: 2870666649
+  pipeline_finish_timestamp_us: 2870686915
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2870871851216
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416637523193
+  pipeline_start_timestamp_us: 2870855375
+  pipeline_finish_timestamp_us: 2870871819
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2870992424904
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416637655824
+  pipeline_start_timestamp_us: 2870977365
+  pipeline_finish_timestamp_us: 2870992400
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2871108362004
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416637789031
+  pipeline_start_timestamp_us: 2871093343
+  pipeline_finish_timestamp_us: 2871108341
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2871184836944
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416637871102
+  pipeline_start_timestamp_us: 2871165401
+  pipeline_finish_timestamp_us: 2871184809
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2871361077208
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416638012443
+  pipeline_start_timestamp_us: 2871344358
+  pipeline_finish_timestamp_us: 2871361050
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2871526821744
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416638203623
+  pipeline_start_timestamp_us: 2871518332
+  pipeline_finish_timestamp_us: 2871526799
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2871604180224
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416638291390
+  pipeline_start_timestamp_us: 2871589367
+  pipeline_finish_timestamp_us: 2871604162
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2871782952404
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416638435520
+  pipeline_start_timestamp_us: 2871763358
+  pipeline_finish_timestamp_us: 2871782929
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2871980540548
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416638623347
+  pipeline_start_timestamp_us: 2871957483
+  pipeline_finish_timestamp_us: 2871980516
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2872090327424
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416638756467
+  pipeline_start_timestamp_us: 2872070334
+  pipeline_finish_timestamp_us: 2872090297
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2872146738872
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416638803924
+  pipeline_start_timestamp_us: 2872137330
+  pipeline_finish_timestamp_us: 2872146713
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2872282594224
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416638951303
+  pipeline_start_timestamp_us: 2872258549
+  pipeline_finish_timestamp_us: 2872282568
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2872405544764
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416639081606
+  pipeline_start_timestamp_us: 2872390531
+  pipeline_finish_timestamp_us: 2872405525
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2872514685108
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416639207447
+  pipeline_start_timestamp_us: 2872502356
+  pipeline_finish_timestamp_us: 2872514661
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2872638232268
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416639346760
+  pipeline_start_timestamp_us: 2872630310
+  pipeline_finish_timestamp_us: 2872638212
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2872767137284
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416639413205
+  pipeline_start_timestamp_us: 2872755362
+  pipeline_finish_timestamp_us: 2872767101
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2872900883028
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416639559967
+  pipeline_start_timestamp_us: 2872880392
+  pipeline_finish_timestamp_us: 2872900852
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2873004367356
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416639682215
+  pipeline_start_timestamp_us: 2872985423
+  pipeline_finish_timestamp_us: 2873004248
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2873125302784
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416639813536
+  pipeline_start_timestamp_us: 2873115341
+  pipeline_finish_timestamp_us: 2873125280
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2873260481316
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416639941107
+  pipeline_start_timestamp_us: 2873244426
+  pipeline_finish_timestamp_us: 2873260459
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2873371017044
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416640068998
+  pipeline_start_timestamp_us: 2873362355
+  pipeline_finish_timestamp_us: 2873370986
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2873559202792
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416640205476
+  pipeline_start_timestamp_us: 2873544413
+  pipeline_finish_timestamp_us: 2873559176
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2873703972112
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416640340877
+  pipeline_start_timestamp_us: 2873690412
+  pipeline_finish_timestamp_us: 2873703951
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2873805343900
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416640476223
+  pipeline_start_timestamp_us: 2873789978
+  pipeline_finish_timestamp_us: 2873805325
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2873920083864
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416640625069
+  pipeline_start_timestamp_us: 2873911402
+  pipeline_finish_timestamp_us: 2873920065
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2874038067576
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416640707635
+  pipeline_start_timestamp_us: 2874029345
+  pipeline_finish_timestamp_us: 2874038042
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2874161863788
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416640826239
+  pipeline_start_timestamp_us: 2874152354
+  pipeline_finish_timestamp_us: 2874161836
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2874216663116
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416640909908
+  pipeline_start_timestamp_us: 2874207356
+  pipeline_finish_timestamp_us: 2874216645
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2874350078124
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416641050121
+  pipeline_start_timestamp_us: 2874340351
+  pipeline_finish_timestamp_us: 2874350056
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2874460732568
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416641156702
+  pipeline_start_timestamp_us: 2874450361
+  pipeline_finish_timestamp_us: 2874460708
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2874600489372
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416641292644
+  pipeline_start_timestamp_us: 2874583397
+  pipeline_finish_timestamp_us: 2874600468
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2874790191028
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416641438155
+  pipeline_start_timestamp_us: 2874765638
+  pipeline_finish_timestamp_us: 2874790162
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2874839535056
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416641528028
+  pipeline_start_timestamp_us: 2874829352
+  pipeline_finish_timestamp_us: 2874839510
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2874962878612
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416641675819
+  pipeline_start_timestamp_us: 2874954361
+  pipeline_finish_timestamp_us: 2874962853
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2875137216200
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416641802063
+  pipeline_start_timestamp_us: 2875129343
+  pipeline_finish_timestamp_us: 2875137194
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2875262180688
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416641934659
+  pipeline_start_timestamp_us: 2875252331
+  pipeline_finish_timestamp_us: 2875262144
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2875391728484
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416642070679
+  pipeline_start_timestamp_us: 2875373352
+  pipeline_finish_timestamp_us: 2875391702
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2875515005116
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416642192384
+  pipeline_start_timestamp_us: 2875495408
+  pipeline_finish_timestamp_us: 2875514982
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2875631573132
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416642289360
+  pipeline_start_timestamp_us: 2875622343
+  pipeline_finish_timestamp_us: 2875631552
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2875700632844
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416642372874
+  pipeline_start_timestamp_us: 2875675371
+  pipeline_finish_timestamp_us: 2875700610
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2875815020344
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416642503752
+  pipeline_start_timestamp_us: 2875798342
+  pipeline_finish_timestamp_us: 2875814999
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
+header {
+  seq: 0
+  stamp: 2875933832576
+  frame_id: "enu"
+}
+meta {
+  sensor_timestamp_us: 1722416642592706
+  pipeline_start_timestamp_us: 2875925357
+  pipeline_finish_timestamp_us: 2875933808
+  version_tag: "C_lidar7.6.6_ODv5.3.7_RBv1.3_LC2.0"
+}
+lidar_perception_objects {
+  available: 1
+  lidar_perception_object_data: []
+}
+------------------
